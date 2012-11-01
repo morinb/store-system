@@ -1,3 +1,10 @@
+# Eclipse files
+.project
+.classpath
+
+# Project file storage directory
+/storage
+
 *.class
 
 # Package Files #
