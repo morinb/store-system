@@ -4,6 +4,7 @@
 
 # Project file storage directory
 /storage
+/bin
 
 *.class
 
